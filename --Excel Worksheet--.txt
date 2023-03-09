@@ -1,0 +1,15 @@
+--Excel Worksheet--
+
+Removed Duplicates
+Changed M & F to Male & Female
+Changed M & S to Married & Single
+Added new Column called "Age Brackets" and Added IF Statement
+
+--Pivot Table--
+Average Income Per Purchase
+Customer Distance Commute
+Customer Age Brackets
+Customer Purchase by Age
+
+--Dashboard--
+All information on Pivot tables - a dashboard was created.
